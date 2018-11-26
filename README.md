@@ -13,7 +13,7 @@ Welcome to Giftr™! Please build out the following features **without using AJA
 
 Once all of the features listed above are working, add AJAX to persist changes to your database. A RESTful JSON API is being faked using a node module (js package) called `json-server`
 
-- To install: `$ npm install -g json-server`
+- To install, run the following line of code in your terminal: $ `npm install -g json-server`
 - To run the package and host your 'server': `$ json-server --watch db.json`
 - Change your program so that the gifts are being loaded in from the server instead of the `giftData.js` file. You may want to comment out the line in `index.html` that loads the file in.
 - A user should be able to perform the same CRUD actions listed above **and** persist changes to the database.
