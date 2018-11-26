@@ -1,6 +1,6 @@
 # Giftr™
 
-Welcome to Gifter™! Please build out the following features **without using AJAX**. For the first part of this application, just focus on DOM manipulation without persisting any changes to the server.
+Welcome to Giftr™! Please build out the following features **without using AJAX**. For the first part of this application, just focus on full CRUD with DOM manipulation without persisting any changes to the server.
 
 - In `src/giftData.js` is all the gift data. Build out the following features:
 
